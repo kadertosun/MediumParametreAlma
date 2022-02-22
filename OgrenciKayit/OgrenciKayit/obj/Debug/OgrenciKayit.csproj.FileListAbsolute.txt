@@ -1,0 +1,10 @@
+C:\Users\ishes\source\repos\OgrenciKayit\OgrenciKayit\bin\Debug\OgrenciKayit.exe.config
+C:\Users\ishes\source\repos\OgrenciKayit\OgrenciKayit\bin\Debug\OgrenciKayit.exe
+C:\Users\ishes\source\repos\OgrenciKayit\OgrenciKayit\bin\Debug\OgrenciKayit.pdb
+C:\Users\ishes\source\repos\OgrenciKayit\OgrenciKayit\obj\Debug\OgrenciKayit.csproj.AssemblyReference.cache
+C:\Users\ishes\source\repos\OgrenciKayit\OgrenciKayit\obj\Debug\OgrenciKayit.Properties.Resources.resources
+C:\Users\ishes\source\repos\OgrenciKayit\OgrenciKayit\obj\Debug\OgrenciKayit.csproj.GenerateResource.cache
+C:\Users\ishes\source\repos\OgrenciKayit\OgrenciKayit\obj\Debug\OgrenciKayit.csproj.CoreCompileInputs.cache
+C:\Users\ishes\source\repos\OgrenciKayit\OgrenciKayit\obj\Debug\OgrenciKayit.exe
+C:\Users\ishes\source\repos\OgrenciKayit\OgrenciKayit\obj\Debug\OgrenciKayit.pdb
+C:\Users\ishes\source\repos\OgrenciKayit\OgrenciKayit\obj\Debug\OgrenciKayit.OgrenciKayit.resources
